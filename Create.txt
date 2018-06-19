@@ -1,0 +1,2 @@
+aut2exe /in FeasaTest.au3 /out FeasaTest.exe /console /legalcopyright "Copyright (C) 2018 USI" /originalfilename FeasaTest.exe /productversion 2.0.0.1 /fileversion 2.0.0.1 
+

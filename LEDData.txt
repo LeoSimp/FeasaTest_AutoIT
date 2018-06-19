@@ -1,0 +1,6 @@
+
+17:02:54 Always LED1 test data:
+R:039 G:137 B:078 I:15193
+The LED color should be:RED,A H,L,L
+The RGB result is:L,M,M
+17:02:54 LED1 NG

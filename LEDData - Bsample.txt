@@ -1,0 +1,10 @@
+
+10:38:48 Blinking LED test data:
+[LED1]
+1=R:007 G:248 B:000 I:14022
+2=R:010 G:245 B:000 I:14244
+3=R:010 G:245 B:000 I:14244
+4=R:010 G:245 B:000 I:14244
+5=R:000 G:000 B:000 I:00000
+10:38:51 in the total 5 times,there are 4 times LED1 Lighting OK
+10:38:51 Total Pass
